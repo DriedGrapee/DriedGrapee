@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @DriedGrapee
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-DriedGrapee/DriedGrapee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+    👋 Hi, I’m @DriedGrape08
+    👀 I’m interested in Math, Programming, and Gaming!
+    🌱 I’m currently learning C++ and bc Calc
+    💞️ I’m looking to collaborate on Webscraping
+    📫 How to reach me DriedGrape80@gmail.com
+
